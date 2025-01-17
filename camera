@@ -15,8 +15,8 @@ start=False
 up=False
 cum=False
 fine=False
-yes=9
-full=12
+yes=0
+full=0
 
 def run1():
     global start
